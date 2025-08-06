@@ -8,7 +8,7 @@
 
 ## 🔗 Official Preview Page
 
-👉 [Open the Full Game List](https://www.explorerslots.com/preview.html?slug=All-Teen-Patti)
+👉 [Teen Patti Master](https://www.yonostore.app/teen-patti-master)
 
 ---
 
@@ -31,5 +31,4 @@ Explore individual app previews and guides from the GitHub directory:
 
 ## 👤 Maintained by Aestero-UI
 
-This SEO content repo is part of a backlink strategy for  
-[ExplorerSlots.com](https://www.explorerslots.com) — built and maintained by **Aestero-UI**.
+[Yono Store](https://www.yonostore.app/) — built and maintained by **Aestero-UI**.
